@@ -1,4 +1,4 @@
-var obj = {
+let obj = {
     a: 'a',
     c: {
         d: 'd',
